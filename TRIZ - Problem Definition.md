@@ -1,0 +1,6 @@
+[[Characteristics of Innovation]]
+[[S-Curves]]
+[[Function]]
+[[Psychological Inertia]]
+[[Time & Space]]
+[[Ideal Final Result]]

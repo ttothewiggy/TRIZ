@@ -1,0 +1,5 @@
+[[TRIZ - Problem Definition]]
+[[Time, Space, Interface and Being Wrong]]
+[[Nine Windows for Opportunity Finding]]
+[[Nine Windows for Problem Solving]]
+[[Times Space and Interface]]
